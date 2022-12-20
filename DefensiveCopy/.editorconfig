@@ -1,0 +1,5 @@
+root=true
+
+# All files
+[*.cs]
+error_prone.large_struct_threshold = 1

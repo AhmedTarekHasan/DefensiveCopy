@@ -1,10 +1,10 @@
-<link rel="canonical" href="" />
+<link rel="canonical" href="https://levelup.gitconnected.com/defensive-copy-in-net-c-38ae28b828?sk=cd6dcba1d62d47d2f3f09e5016bc2ea6" />
 
 # Defensive Copy In .NET C#
 ### Everything about Defensive Copy in .NET C#
 
 <p align="center">
-  <!--<img src="https://miro.medium.com/max/1400/1*v5qBr4h1qH6i_HavIwGAFQ.jpeg">-->
+  <img src="https://miro.medium.com/max/4800/1*U8lAuWlA1YVE4TbpchJi_Q.webp">
 </p>
 
 <br/>
@@ -59,4 +59,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: 
+[Article]: https://levelup.gitconnected.com/defensive-copy-in-net-c-38ae28b828?sk=cd6dcba1d62d47d2f3f09e5016bc2ea6
